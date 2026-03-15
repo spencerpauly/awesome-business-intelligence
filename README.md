@@ -201,3 +201,4 @@ ToC split by SaaS and OSS (Open Source Software):
 
   - **OSS**
     - [Amundsen](https://github.com/lyft/amundsenfrontendlibrary) by Lyft
+ - [querybear.com](https://querybear.com) - Ask your data anything – with persistent memory, schema learning, and more.
